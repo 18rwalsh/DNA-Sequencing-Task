@@ -1,0 +1,4 @@
+frag = is the fragmented segment
+sus = is the suspect or string of letters
+fragLen = the length of the fragment
+seq = finds the first letter of the fragment

@@ -1,0 +1,10 @@
+Begin
+    open fragment1.txt in read
+    open suspect1.txt in read
+    if fragment is in suspect
+        find the length of the fragment
+        find the first letter in the fragmented section
+        display the starting and ending point of the fragmented DNA for user to read
+    if fragment isnt in suspect
+        dispaly message telling user that the fragmented DNA is not in the suspect DNA
+End
